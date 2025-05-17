@@ -9,7 +9,7 @@ def generate_launch_description():
             output='screen'
         ),
         Node(
-            package='my_package',     
+            package='xbox_joy',     
             executable='turtle_joystick.py', 
             output='screen'
         ),
